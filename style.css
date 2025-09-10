@@ -1,0 +1,65 @@
+
+
+img{
+    height: 600px;
+    width: 500px;
+    margin-left: 100px;
+}
+
+.head{
+    z-index: 1;
+    margin-left: 10px;
+    margin-top: 40px;
+    font-weight: 700;
+    font-size: x-large;
+}
+
+.container{
+    background-color: black;
+    color: white;
+}
+
+button{
+    background-color: white;
+    color: black;
+    height: 45px;
+    width: 110px;
+    border-radius: 10px;
+}
+
+.degree{
+    margin-top: 100px;
+    border: 0 solid gray;
+    box-shadow: 4px 4px 8px gray;
+    color: white;
+    height: 200px;
+    width: 300px;
+     margin-left: 200px;
+}
+
+.skill{
+    margin-top: 200px;
+    border: 0 solid gray;
+    box-shadow: 4px 4px 8px gray;
+    margin: 20px;
+    height: 200px;
+    width: 300px;
+    text-align: center;
+    padding-top: 50px;
+    color: white;
+}
+
+.skills-container{
+    margin-left: 100px;
+}
+
+.footer{
+    margin-left: 150px;
+    height: 100px;
+    color: white;
+}
+
+.cirtificate{
+     margin-left: 150px;
+     color: white;
+}
